@@ -8,7 +8,7 @@ sudo systemctl start docker
 
 sudo usermod -aG docker $USER
 
-git clone https://github.com/sinzn/Docker-testing.git
+git clone https://github.com/sinzn/Testing_terra.git
 
 cd Docker-testing || exit
 
